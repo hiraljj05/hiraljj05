@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain!</h2>
 
-[![Linkedin: hiral](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiral-jain-1a8054347/)](https://www.linkedin.com/in/hiral-jain-1a8054347/)
+[![Linkedin: hiral](https://img.shields.io/badge/-hiral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiral-jain-1a8054347/)](https://www.linkedin.com/in/hiral-jain-1a8054347/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
