@@ -1,5 +1,4 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -22,39 +21,56 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+const hiral = {
+  pronouns: "She/Her",
+  code: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Dart"],
+  askMeAbout: [
+    "web development",
+    "app development",
+    "cloud computing",
+    "machine learning",
+    "UI/UX",
+    "automation",
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "React Native"],
+      css: ["Tailwind", "CSS3"],
+      html: ["HTML5"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+    backEnd: {
+      js: ["Node.js"],
+      python: ["Flask"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    mobileApp: {
+      crossPlatform: ["Flutter", "React Native"],
+    },
+    devOps: ["Docker🐳", "GitHub Actions", "CI/CD", "Nginx"],
+    cloudServices: {
+      aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+    },
+    databases: [
+      "MySQL",
+      "MongoDB",
+      "Firebase Realtime DB",
+      "SQLite",
+    ],
+    machineLearning: [
+      "TensorFlow",
+      "Pandas",
+    ],
+    automationTesting: ["Selenium"],
+    misc: ["REST APIs", "WebSockets"],
+    generativeAI: ["GPT", "Vectorization"],
+  },
+  architecture: {
+    frontEnd: ["SPA", "SSR"],
+    backEnd: ["microservices", "monolithic", "serverless"],
+    devOps: ["CloudFormation", "Serverless Framework"],
+    databases: ["Relational", "NoSQL", "In-memory"],
+  },
+  currentFocus: "Blending cloud automation with generative AI innovation",
+  funFact: "I debug faster with a coffee in hand!",
 };
 ```
 
