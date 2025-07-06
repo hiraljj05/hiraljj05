@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 
