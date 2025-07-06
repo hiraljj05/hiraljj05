@@ -15,31 +15,21 @@
 <div align="center">
 
  <img src = 'https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif' width='30'/> 
- <img src = 'https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif' width='30'/> 
- 
-
-
-
-
 <-->
 
 <br/>
-
-
 <br/><br/>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="eatsleepcode" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain! </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270">
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Hiral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiral-jain-1a8054347/)](https://www.linkedin.com/in/hiral-jain-1a8054347/)
 
@@ -51,11 +41,9 @@
 - 🌱 &nbsp; I’m currently learning exploring AI tools and technologies to enhance productivity and build smarter applications.
 - 📫 How to reach me:
 
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
+    * [**Drop a Mail**](mailto:jjhiral2005@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
-
-    * [**Visit my Website**](https://raghavk16.github.io/)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/hiral-jain-1a8054347/)
 
     
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hiraljj05?tab=repositories)
