@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/hiraljj05/hiraljj05/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
@@ -13,7 +13,13 @@
 <!--
 
 <div align="center">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/>
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> 
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/>
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/>
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> 
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
  
 
 
