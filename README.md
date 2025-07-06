@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Hiral Jain Typer" />
 </div>
 <br/>
 
