@@ -1,14 +1,9 @@
-<div align="center">
-<img src="https://github.com/hiraljj05/hiraljj05/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
 
 # Welcome To My GitHub Profile !
 
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Hiral Jain Typer" />
-</div>
-<br/>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain! </h2>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270">
+
 
 <!--
 
@@ -19,19 +14,8 @@
 
 <br/>
 <br/><br/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coder" width="400" height="250" />
-</div>
+
 <br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eatsleepcode" width="250" height="250" />
-</div>
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain! </h2>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270">
-
-[![Linkedin: anmol](https://img.shields.io/badge/-Hiral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiral-jain-1a8054347/)](https://www.linkedin.com/in/hiral-jain-1a8054347/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -152,6 +136,12 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>
+
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eatsleepcode" width="250" height="250" />
+</div>
 
 - ⚡ Fun Facts: 
 
