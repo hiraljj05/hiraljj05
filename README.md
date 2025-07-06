@@ -19,7 +19,7 @@
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/>
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/>
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> 
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
+ <img src = 'https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif' width='30'/> 
  
 
 
