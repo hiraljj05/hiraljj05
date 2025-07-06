@@ -30,42 +30,10 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
-
-- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
-
-
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-
-- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
-
-- 🤓 Active User at: **GitHub | LinkedIn**
-
-- 📫 How to reach me:
-
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
-
-    * [**Visit my Website**](https://raghavk16.github.io/)
-    
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun Facts: 
-
-    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
-
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-    
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Hiral Jain! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -75,9 +43,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 &nbsp; I’m currently working on getting through College
-- 🤝 &nbsp; I’m looking to collaborate on innovative projects
+- 🤝 &nbsp; I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- 🤓 Active User at: **GitHub | LinkedIn**
 - 🌱 &nbsp; I’m currently learning exploring AI tools and technologies to enhance productivity and build smarter applications.
-- 📫 How to reach me **jjhiral2005@gmail.com**
+- 📫 How to reach me:
+
+    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
+
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
+
+    * [**Visit my Website**](https://raghavk16.github.io/)
+
+    
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hiraljj05?tab=repositories)
 
 
@@ -186,3 +163,10 @@
   </a>
 
 </div>
+- ⚡ Fun Facts: 
+
+    * *Besides programming, I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
+
+    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
+    
+    * *If you're still reading, why not follow me ?? Let's Connect !!*
