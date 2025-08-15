@@ -70,7 +70,6 @@
 ###  Fun Facts
 
 -  I'm a proud **Melophile** – music is my daily dose of joy  
--  I love to cook for friends and family in my free time  
 -  "You know you're a programmer when you spend a whole day fixing a bug with one line of code"  
 -  If you're still reading, let's connect and build something amazing together!
 
