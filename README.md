@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270"/>
 
-<h4>🎓 I'm currently pursuing B.Tech from KMIT, Hyderabad.<br>👨‍💻 Passionate about becoming a full-stack and app developer.</h4>
+<h4> I'm currently pursuing B.Tech from KMIT, Hyderabad.<br> Passionate about becoming a full-stack and app developer.</h4>
 
 ---
 
@@ -67,12 +67,12 @@
 
 ---
 
-### ⚡ Fun Facts
+###  Fun Facts
 
-- 🎶 I'm a proud **Melophile** – music is my daily dose of joy  
-- 🍳 I love to cook for friends and family in my free time  
-- 🧠 "You know you're a programmer when you spend a whole day fixing a bug with one line of code"  
-- 📢 If you're still reading, let's connect and build something amazing together!
+-  I'm a proud **Melophile** – music is my daily dose of joy  
+-  I love to cook for friends and family in my free time  
+-  "You know you're a programmer when you spend a whole day fixing a bug with one line of code"  
+-  If you're still reading, let's connect and build something amazing together!
 
 ---
 
