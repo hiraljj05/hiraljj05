@@ -10,14 +10,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on getting through College  
-- 🌱 Learning & exploring AI tools and technologies to build smarter applications  
-- 🤝 Looking to collaborate on exciting open-source projects  
-- 💬 Ask me about React Native, Firebase, or Flutter  
-- 📫 How to reach me:
-  - [📧 Drop a Mail](mailto:jjhiral2005@gmail.com)
-  - [💼 Connect via LinkedIn](https://www.linkedin.com/in/hiral-jain-1a8054347/)
-- 👨🏻‍💻 Most of my work is on [GitHub](https://github.com/hiraljj05?tab=repositories)
+-  I’m currently working on getting through College  
+-  Learning & exploring AI tools and technologies to build smarter applications  
+-  Looking to collaborate on exciting open-source projects  
+-  Ask me about React Native, Firebase, or Flutter  
+-  How to reach me:
+  - [ Drop a Mail](mailto:jjhiral2005@gmail.com)
+  - [ Connect via LinkedIn](https://www.linkedin.com/in/hiral-jain-1a8054347/)
+-  Most of my work is on [GitHub](https://github.com/hiraljj05?tab=repositories)
 
 <br/>
 
